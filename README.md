@@ -1,4 +1,4 @@
-👋 Hi, I’m Satniago Suarez
+👋 Hi, I’m Santiago Suarez
 
 👀 I’m interested in data science, Data Analytics and machine learning. I enjoy exploring new technologies and solving complex problems using data-driven approaches.
 
